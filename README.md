@@ -2,10 +2,11 @@
 
 A web-based travel planning application for organizing trips, itineraries, locations, checklists, notes, and travel expenses.
 
-**Repository:**
-https://github.com/shrushtiraut9075/Shrushti-TripMate
-**APP LINK **
+**Live Application:**
 https://ai.studio/apps/f64f390d-0e75-4a0a-91cd-2c1ea1127267
+
+**GitHub Repository:**
+https://github.com/shrushtiraut9075/Shrushti-TripMate
 
 ---
 
@@ -191,13 +192,14 @@ Do not commit private API keys or credentials to the repository.
 
 ## Project Information
 
-| Field             | Details                                                                    |
-| ----------------- | -------------------------------------------------------------------------- |
-| Project Name      | Shrushti TripMate                                                          |
-| Project Type      | Web Application                                                            |
-| Domain            | Travel Planning                                                            |
-| Development Focus | Web Development                                                            |
-| Repository        | [GitHub Repository](https://github.com/shrushtiraut9075/Shrushti-TripMate) |
+| Field             | Details                                                                         |
+| ----------------- | ------------------------------------------------------------------------------- |
+| Project Name      | Shrushti TripMate                                                               |
+| Project Type      | Web Application                                                                 |
+| Domain            | Travel Planning                                                                 |
+| Development Focus | Web Development                                                                 |
+| Live Application  | [Google AI Studio](https://ai.studio/apps/f64f390d-0e75-4a0a-91cd-2c1ea1127267) |
+| Repository        | [GitHub Repository](https://github.com/shrushtiraut9075/Shrushti-TripMate)      |
 
 ---
 
