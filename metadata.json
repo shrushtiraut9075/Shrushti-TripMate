@@ -1,0 +1,6 @@
+{
+  "name": "Shrushti TripMate",
+  "description": "Plan your journey. Organize your adventure. Complete travel planner with day-wise itineraries, interactive map, checklists, notes, budget tracking, and progress metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
