@@ -4,6 +4,8 @@ A web-based travel planning application for organizing trips, itineraries, locat
 
 **Repository:**
 https://github.com/shrushtiraut9075/Shrushti-TripMate
+**APP LINK **
+https://ai.studio/apps/f64f390d-0e75-4a0a-91cd-2c1ea1127267
 
 ---
 
